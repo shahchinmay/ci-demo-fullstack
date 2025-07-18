@@ -1,0 +1,10 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"No tests defined yet\" && exit 0"
+  },
+  "dependencies": {
+    "@angular/core": "^16.0.0"
+  }
+}
